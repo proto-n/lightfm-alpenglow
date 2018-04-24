@@ -1,8 +1,8 @@
-# turicreate-alpenglow
+# lightfm-alpenglow
 
 # This description is under construction
 
-# Turicreate evaluation with Alpenglow
+# LightFM evaluation with Alpenglow
 
 [Alpenglow](https://github.com/rpalovics/Alpenglow) makes it possible to evaluate recommender models in an online setting. This repository contains an example of connecting Alpenglow's evaluation with [LightFM](https://github.com/lyst/lightfm).
 
